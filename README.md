@@ -3,7 +3,7 @@ Please ensure you set the appropirate bitness depending on your Content Manager 
 
 *x64 for 64bit and x86 for 32bit
 
-*A compiled version of both the 32bit and 64bit addin can be accessed under <b>Releases<b> if you'd like to try them without doing your own further development
+*A compiled version of both the 32bit and 64bit addin can be accessed under <b>Releases</b> if you'd like to try them without doing your own further development
 
 # config.csv
 This file should sit in the same directory as the defaultcontaineraddin.dll file
