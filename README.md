@@ -1,5 +1,5 @@
 # Platform Target
-Please ensure you set the appropirate bitness depending on your Content Manager client from <i>Project > Properties > Build > Platform Target</i>
+Please ensure you set the appropriate bitness depending on your Content Manager client from <i>Project > Properties > Build > Platform Target</i>
 
 *x64 for 64bit and x86 for 32bit
 
