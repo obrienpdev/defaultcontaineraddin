@@ -3,6 +3,8 @@ Please ensure you set the appropirate bitness depending on your Content Manager 
 
 *x64 for 64bit and x86 for 32bit
 
+*A compiled version of both the 32bit and 64bit addin can be accessed under <b>Releases<b> if you'd like to try them without doing your own further development
+
 # config.csv
 This file should sit in the same directory as the defaultcontaineraddin.dll file
 
@@ -22,4 +24,6 @@ So you don't have to place it on every users computer you may elect to store it 
 2. <b>Link Name</b> = You may type your own name
 3. Under <b>.NET Assembly Name</b> use the kwik select button to select the defaultcontaineraddin.dll (or paste in the UNC Path and then select the file)
 4. <b>.NET Class Name</b> = DefaultContainerAddin
+5. Hit OK
+6. On the newly setup addin go to <i>Right Click > Properties > Used By</i> and select the record types you want it applied to
 
